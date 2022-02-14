@@ -1,0 +1,15 @@
+{
+  "name": "restuarent",
+  "version": "1.0.0",
+  "description": "restuarent website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch scss:dist/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.49.7"
+  }
+}
